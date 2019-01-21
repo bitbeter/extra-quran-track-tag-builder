@@ -1,0 +1,3 @@
+eyed3
+json
+python-magic-bin==0.4.14
